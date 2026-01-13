@@ -23,14 +23,14 @@ This solution improves home safety by combining robotics, IoT, and automation in
             'Self-recharging mechanism for continuous operation'
         ],
         images: [
-            '../assets/img/portfolio/spiderRobot1.jpg',
-            '../assets/img/portfolio/spiderRobot2.jpg',
-            '../assets/img/portfolio/spiderRobot3.jpg',
-            '../assets/img/portfolio/spiderRobot4.png',
-            '../assets/img/portfolio/spiderRobot5.png',
-            '../assets/img/portfolio/spiderRobot6.png'
+            '/my_portfolio_site/assets/img/portfolio/spiderRobot1.jpg',
+            '/my_portfolio_site/assets/img/portfolio/spiderRobot2.jpg',
+            '/my_portfolio_site/assets/img/portfolio/spiderRobot3.jpg',
+            '/my_portfolio_site/assets/img/portfolio/spiderRobot4.png',
+            '/my_portfolio_site/assets/img/portfolio/spiderRobot5.png',
+            '/my_portfolio_site/assets/img/portfolio/spiderRobot6.png'
         ],
-        video: '../assets/vid/Spider_Robot3.mp4',
+        video: '/my_portfolio_site/assets/vid/Spider_Robot3.mp4',
         videoDuration: 20
     },
 
@@ -55,9 +55,9 @@ This system improves comfort, energy efficiency, and indoor air quality through 
             'Real-time notifications to user’s mobile device'
         ],
         images: [
-            '../assets/img/portfolio/AC1.jpg'
+            '/my_portfolio_site/assets/img/portfolio/AC1.jpg'
         ],
-        video: '../assets/vid/AC_vid.mp4',
+        video: '/my_portfolio_site/assets/vid/AC_vid.mp4',
         videoDuration: 2
     },
 
@@ -82,10 +82,10 @@ This system improves comfort, energy efficiency, and indoor air quality through 
         ],
 
         images: [
-            '../assets/img/portfolio/fireFight2.jpeg',
-            '../assets/img/portfolio/fireFight1.jpeg',
-            '../assets/img/portfolio/fireFight3.jpg',
-            '../assets/img/portfolio/firefight4.jpg'
+            '/my_portfolio_site/assets/img/portfolio/fireFight2.jpeg',
+            '/my_portfolio_site/assets/img/portfolio/fireFight1.jpeg',
+            '/my_portfolio_site/assets/img/portfolio/fireFight3.jpg',
+            '/my_portfolio_site/assets/img/portfolio/firefight4.jpg'
         ],
 
         video: null,
@@ -113,8 +113,8 @@ This system improves comfort, energy efficiency, and indoor air quality through 
         ],
 
         images: [
-            '../assets/img/portfolio/smartFans1.png',
-            '../assets/img/portfolio/smartFans2.jpg'
+            '/my_portfolio_site/assets/img/portfolio/smartFans1.png',
+            '/my_portfolio_site/assets/img/portfolio/smartFans2.jpg'
 
         ],
 
@@ -141,7 +141,7 @@ This system improves comfort, energy efficiency, and indoor air quality through 
             'Designed and implemented as a Version 1 prototype'
         ],
         images: [
-            '../assets/img/portfolio/SmartHome_V1.jpg'
+            '/my_portfolio_site/assets/img/portfolio/SmartHome_V1.jpg'
 
         ],
 
@@ -171,14 +171,14 @@ This system improves comfort, energy efficiency, and indoor air quality through 
             'Wireless communication using ESP32-S3 and ESP8266',
             'Low-power control using Arduino Pro Mini for sensor handling'],
         images: [
-            '../assets/img/portfolio/SmarHome1_V2.jpeg',
-            '../assets/img/portfolio/SmarHome2_V2.jpeg',
-            '../assets/img/portfolio/SmarHome3_V2.jpeg',
-            '../assets/img/portfolio/SmarHome4_V2.jpeg',
-            '../assets/img/portfolio/SmarHome5_V2.jpeg'
+            '/my_portfolio_site/assets/img/portfolio/SmarHome1_V2.jpeg',
+            '/my_portfolio_site/assets/img/portfolio/SmarHome2_V2.jpeg',
+            '/my_portfolio_site/assets/img/portfolio/SmarHome3_V2.jpeg',
+            '/my_portfolio_site/assets/img/portfolio/SmarHome4_V2.jpeg',
+            '/my_portfolio_site/assets/img/portfolio/SmarHome5_V2.jpeg'
         ],
 
-        video: '../assets/vid/SM_v2_vid.mp4',
+        video: '/my_portfolio_site/assets/vid/SM_v2_vid.mp4',
         videoDuration: 19
     }
 
