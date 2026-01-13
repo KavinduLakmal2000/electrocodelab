@@ -1569,8 +1569,10 @@ section,
   margin: 0;
   list-style: none;
   display: flex;
-  flex-direction: column;
+  justify-content: center;
+  flex-wrap: wrap;
   gap: 10px;
+  margin-bottom: 30px;
 }
 
 @media (max-width: 991px) {
@@ -1592,7 +1594,6 @@ section,
   border-radius: 6px;
   background: transparent;
   position: relative;
-  border-left: 3px solid transparent;
 }
 
 @media (max-width: 991px) {
@@ -1606,13 +1607,11 @@ section,
 .portfolio .portfolio-filters li:hover {
   color: var(--accent-color);
   background-color: color-mix(in srgb, var(--accent-color), transparent 90%);
-  border-left-color: color-mix(in srgb, var(--accent-color), transparent 50%);
 }
 
 .portfolio .portfolio-filters li.filter-active {
   color: var(--accent-color);
   background-color: color-mix(in srgb, var(--accent-color), transparent 90%);
-  border-left-color: var(--accent-color);
   font-weight: 600;
 }
 
@@ -1662,7 +1661,7 @@ section,
 
 .portfolio .portfolio-wrap .portfolio-info h4 {
   font-size: 20px;
-  color: var(--contrast-color);
+  color: #ffffff;
   font-weight: 700;
   margin-bottom: 15px;
 }
