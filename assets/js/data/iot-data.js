@@ -23,14 +23,14 @@ This solution improves home safety by combining robotics, IoT, and automation in
             'Self-recharging mechanism for continuous operation'
         ],
         images: [
-            '${APP_BASE_PATH}/assets/img/portfolio/spiderRobot1.jpg',
-            '${APP_BASE_PATH}/assets/img/portfolio/spiderRobot2.jpg',
-            '${APP_BASE_PATH}/assets/img/portfolio/spiderRobot3.jpg',
-            '${APP_BASE_PATH}/assets/img/portfolio/spiderRobot4.png',
-            '${APP_BASE_PATH}/assets/img/portfolio/spiderRobot5.png',
-            '${APP_BASE_PATH}/assets/img/portfolio/spiderRobot6.png'
+            'https://kavindulakmal2000.github.io/my_portfolio_site/assets/img/portfolio/spiderRobot1.jpg',
+            'https://kavindulakmal2000.github.io/my_portfolio_site/assets/img/portfolio/spiderRobot2.jpg',
+            'https://kavindulakmal2000.github.io/my_portfolio_site/assets/img/portfolio/spiderRobot3.jpg',
+            'https://kavindulakmal2000.github.io/my_portfolio_site/assets/img/portfolio/spiderRobot4.png',
+            'https://kavindulakmal2000.github.io/my_portfolio_site/assets/img/portfolio/spiderRobot5.png',
+            'https://kavindulakmal2000.github.io/my_portfolio_site/assets/img/portfolio/spiderRobot6.png'
         ],
-        video: '${APP_BASE_PATH}/assets/vid/Spider_Robot3.mp4',
+        video: 'https://kavindulakmal2000.github.io/my_portfolio_site/assets/vid/Spider_Robot3.mp4',
         videoDuration: 20
     },
 
