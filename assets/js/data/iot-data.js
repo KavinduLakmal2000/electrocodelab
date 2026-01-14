@@ -23,14 +23,14 @@ This solution improves home safety by combining robotics, IoT, and automation in
             'Self-recharging mechanism for continuous operation'
         ],
         images: [
-            '${BASE}/assets/img/portfolio/spiderRobot1.jpg',
-            '${BASE}/assets/img/portfolio/spiderRobot2.jpg',
-            '${BASE}/assets/img/portfolio/spiderRobot3.jpg',
-            '${BASE}/assets/img/portfolio/spiderRobot4.png',
-            '${BASE}/assets/img/portfolio/spiderRobot5.png',
-            '${BASE}/assets/img/portfolio/spiderRobot6.png'
+            '${APP_BASE_PATH}/assets/img/portfolio/spiderRobot1.jpg',
+            '${APP_BASE_PATH}/assets/img/portfolio/spiderRobot2.jpg',
+            '${APP_BASE_PATH}/assets/img/portfolio/spiderRobot3.jpg',
+            '${APP_BASE_PATH}/assets/img/portfolio/spiderRobot4.png',
+            '${APP_BASE_PATH}/assets/img/portfolio/spiderRobot5.png',
+            '${APP_BASE_PATH}/assets/img/portfolio/spiderRobot6.png'
         ],
-        video: '${BASE}/assets/vid/Spider_Robot3.mp4',
+        video: '${APP_BASE_PATH}/assets/vid/Spider_Robot3.mp4',
         videoDuration: 20
     },
 
@@ -55,9 +55,9 @@ This system improves comfort, energy efficiency, and indoor air quality through 
             'Real-time notifications to user’s mobile device'
         ],
         images: [
-            '${BASE}/assets/img/portfolio/AC1.jpg'
+            '${APP_BASE_PATH}/assets/img/portfolio/AC1.jpg'
         ],
-        video: '${BASE}/assets/vid/AC_vid.mp4',
+        video: '${APP_BASE_PATH}/assets/vid/AC_vid.mp4',
         videoDuration: 2
     },
 
@@ -82,10 +82,10 @@ This system improves comfort, energy efficiency, and indoor air quality through 
         ],
 
         images: [
-            '${BASE}/assets/img/portfolio/fireFight2.jpeg',
-            '${BASE}/assets/img/portfolio/fireFight1.jpeg',
-            '${BASE}/assets/img/portfolio/fireFight3.jpg',
-            '${BASE}/assets/img/portfolio/firefight4.jpg'
+            '${APP_BASE_PATH}/assets/img/portfolio/fireFight2.jpeg',
+            '${APP_BASE_PATH}/assets/img/portfolio/fireFight1.jpeg',
+            '${APP_BASE_PATH}/assets/img/portfolio/fireFight3.jpg',
+            '${APP_BASE_PATH}/assets/img/portfolio/firefight4.jpg'
         ],
 
         video: null,
@@ -113,8 +113,8 @@ This system improves comfort, energy efficiency, and indoor air quality through 
         ],
 
         images: [
-            '${BASE}/assets/img/portfolio/smartFans1.png',
-            '${BASE}/assets/img/portfolio/smartFans2.jpg'
+            '${APP_BASE_PATH}/assets/img/portfolio/smartFans1.png',
+            '${APP_BASE_PATH}/assets/img/portfolio/smartFans2.jpg'
 
         ],
 
@@ -141,7 +141,7 @@ This system improves comfort, energy efficiency, and indoor air quality through 
             'Designed and implemented as a Version 1 prototype'
         ],
         images: [
-            '${BASE}/assets/img/portfolio/SmartHome_V1.jpg'
+            '${APP_BASE_PATH}/assets/img/portfolio/SmartHome_V1.jpg'
 
         ],
 
@@ -171,14 +171,14 @@ This system improves comfort, energy efficiency, and indoor air quality through 
             'Wireless communication using ESP32-S3 and ESP8266',
             'Low-power control using Arduino Pro Mini for sensor handling'],
         images: [
-            '${BASE}/assets/img/portfolio/SmarHome1_V2.jpeg',
-            '${BASE}/assets/img/portfolio/SmarHome2_V2.jpeg',
-            '${BASE}/assets/img/portfolio/SmarHome3_V2.jpeg',
-            '${BASE}/assets/img/portfolio/SmarHome4_V2.jpeg',
-            '${BASE}/assets/img/portfolio/SmarHome5_V2.jpeg'
+            '${APP_BASE_PATH}/assets/img/portfolio/SmarHome1_V2.jpeg',
+            '${APP_BASE_PATH}/assets/img/portfolio/SmarHome2_V2.jpeg',
+            '${APP_BASE_PATH}/assets/img/portfolio/SmarHome3_V2.jpeg',
+            '${APP_BASE_PATH}/assets/img/portfolio/SmarHome4_V2.jpeg',
+            '${APP_BASE_PATH}/assets/img/portfolio/SmarHome5_V2.jpeg'
         ],
 
-        video: '${BASE}/assets/vid/SM_v2_vid.mp4',
+        video: '${APP_BASE_PATH}/assets/vid/SM_v2_vid.mp4',
         videoDuration: 19
     }
 
