@@ -1,10 +1,20 @@
-// ✅ Define base path FIRST (must be global)
-window.APP_BASE_PATH =
-  window.location.hostname.includes('github.io')
+// assets/js/config.js
+window.ENV = {
+  SITE_ORIGIN: window.location.origin,
+  PROJECT_ROOT: window.location.hostname.includes('github.io')
     ? '/my_portfolio_site'
-    : '';
+    : '',
 
-// -----------------------------
+  ASSETS_BASE: window.location.hostname.includes('github.io')
+    ? 'https://kavindulakmal2000.github.io/my_portfolio_site'
+    : ''
+};
+
+
+
+const GLOBAL_CONFIG = {
+    RS: false // Set to true to show Resume Section, false to hide it
+};
 
 document.addEventListener('DOMContentLoaded', function () {
   if (typeof GLOBAL_CONFIG !== 'undefined') {
@@ -31,3 +41,4 @@ document.addEventListener('DOMContentLoaded', function () {
     }
   }
 });
+ 
