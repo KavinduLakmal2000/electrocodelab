@@ -22,9 +22,9 @@ const webDevelopmentProjects = [
             'Optimized for performance and maintainability'
         ],
         images: [
-            '../assets/img/portfolio/monta1.png',
-            '../assets/img/portfolio/monta2.png',
-            '../assets/img/portfolio/monta3.png'
+            `${APP_BASE_PATH}/assets/img/portfolio/monta1.png`,
+            `${APP_BASE_PATH}/assets/img/portfolio/monta2.png`,
+            `${APP_BASE_PATH}/assets/img/portfolio/monta3.png`
         ],
         video: null,
         videoDuration: 0
@@ -50,10 +50,10 @@ const webDevelopmentProjects = [
             'Data validation and error handling'
         ],
         images: [
-            '../assets/img/portfolio/CarInsure1.png',
-            '../assets/img/portfolio/carInsure2.png',
-            '../assets/img/portfolio/carInsure3.png',
-            '../assets/img/portfolio/carInsure4.png'
+            `${APP_BASE_PATH}/assets/img/portfolio/CarInsure1.png`,
+            `${APP_BASE_PATH}/assets/img/portfolio/carInsure2.png`,
+            `${APP_BASE_PATH}/assets/img/portfolio/carInsure3.png`,
+            `${APP_BASE_PATH}/assets/img/portfolio/carInsure4.png`
         ],
         video: null,
         videoDuration: 0
@@ -78,10 +78,10 @@ const webDevelopmentProjects = [
             'Designed specifically for academic and student use'
         ],
         images: [
-            '../assets/img/portfolio/CC1.png',
-            '../assets/img/portfolio/CC2.png',
-            '../assets/img/portfolio/CC3.png',
-            '../assets/img/portfolio/CC4.png'
+            `${APP_BASE_PATH}/assets/img/portfolio/CC1.png`,
+            `${APP_BASE_PATH}/assets/img/portfolio/CC2.png`,
+            `${APP_BASE_PATH}/assets/img/portfolio/CC3.png`,
+            `${APP_BASE_PATH}/assets/img/portfolio/CC4.png`
         ],
         video: null,
         videoDuration: 0

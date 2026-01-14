@@ -23,38 +23,15 @@ const pcbDesignProjects = [
     ],
 
     images: [
-      '../assets/img/portfolio/RGB_mcu1.jpg',
-      '../assets/img/portfolio/RGB_mcu2.jpg',
-      '../assets/img/portfolio/RGB_mcu3.jpg',
-      '../assets/img/portfolio/RGB_mcu4.jpg'
+      `${APP_BASE_PATH}/assets/img/portfolio/RGB_mcu1.jpg`,
+      `${APP_BASE_PATH}/assets/img/portfolio/RGB_mcu2.jpg`,
+      `${APP_BASE_PATH}/assets/img/portfolio/RGB_mcu3.jpg`,
+      `${APP_BASE_PATH}/assets/img/portfolio/RGB_mcu4.jpg`
 
     ],
 
-    video: '../assets/vid/RBG_mcu2.mp4',
+    video: `${APP_BASE_PATH}/assets/vid/RBG_mcu2.mp4`,
     videoDuration: 15
-  },
-
-  {
-    id: 2,
-    title: 'Digital Experience',
-    client: 'Tech Innovations',
-    category: 'PCB Design',
-    date: '10 January, 2024',
-    url: 'https://example.com',
-    description: `Autem ipsum nam porro corporis rerum. Quis eos dolorem eos itaque inventore commodi labore quia quia. Exercitationem repudiandae officiis neque suscipit non officia eaque itaque enim. Voluptatem officia accusantium nesciunt est omnis tempora consectetur dignissimos. Sequi nulla at esse enim cum deserunt eius.`,
-    features: [
-      'Multi-layer Design',
-      'Thermal Management',
-      'EMI/EMC Compliance',
-      'Rapid Prototyping'
-    ],
-    images: [
-      '../assets/img/portfolio/portfolio-6.webp',
-      '../assets/img/portfolio/portfolio-8.webp',
-      '../assets/img/portfolio/portfolio-9.webp'
-    ],
-    video: null,
-    videoDuration: 0
   }
 ];
 
