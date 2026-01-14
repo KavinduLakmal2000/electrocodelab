@@ -1,7 +1,14 @@
-window.APP_BASE_PATH =
-  location.hostname.endsWith('github.io')
+// assets/js/config.js
+window.ENV = {
+  SITE_ORIGIN: window.location.origin,
+  PROJECT_ROOT: window.location.hostname.includes('github.io')
     ? '/my_portfolio_site'
-    : '';
+    : '',
+
+  ASSETS_BASE: window.location.hostname.includes('github.io')
+    ? 'https://kavindulakmal2000.github.io/my_portfolio_site'
+    : ''
+};
 
 
 

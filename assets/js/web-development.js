@@ -22,9 +22,9 @@ const webDevelopmentProjects = [
             'Optimized for performance and maintainability'
         ],
         images: [
-            `${APP_BASE_PATH}/assets/img/portfolio/monta1.png`,
-            `${APP_BASE_PATH}/assets/img/portfolio/monta2.png`,
-            `${APP_BASE_PATH}/assets/img/portfolio/monta3.png`
+            `${ENV.ASSETS_BASE}/assets/img/portfolio/monta1.png`,
+            `${ENV.ASSETS_BASE}/assets/img/portfolio/monta2.png`,
+            `${ENV.ASSETS_BASE}/assets/img/portfolio/monta3.png`
         ],
         video: null,
         videoDuration: 0
@@ -50,10 +50,10 @@ const webDevelopmentProjects = [
             'Data validation and error handling'
         ],
         images: [
-            `${APP_BASE_PATH}/assets/img/portfolio/CarInsure1.png`,
-            `${APP_BASE_PATH}/assets/img/portfolio/carInsure2.png`,
-            `${APP_BASE_PATH}/assets/img/portfolio/carInsure3.png`,
-            `${APP_BASE_PATH}/assets/img/portfolio/carInsure4.png`
+            `${ENV.ASSETS_BASE}/assets/img/portfolio/CarInsure1.png`,
+            `${ENV.ASSETS_BASE}/assets/img/portfolio/carInsure2.png`,
+            `${ENV.ASSETS_BASE}/assets/img/portfolio/carInsure3.png`,
+            `${ENV.ASSETS_BASE}/assets/img/portfolio/carInsure4.png`
         ],
         video: null,
         videoDuration: 0
@@ -78,10 +78,10 @@ const webDevelopmentProjects = [
             'Designed specifically for academic and student use'
         ],
         images: [
-            `${APP_BASE_PATH}/assets/img/portfolio/CC1.png`,
-            `${APP_BASE_PATH}/assets/img/portfolio/CC2.png`,
-            `${APP_BASE_PATH}/assets/img/portfolio/CC3.png`,
-            `${APP_BASE_PATH}/assets/img/portfolio/CC4.png`
+            `${ENV.ASSETS_BASE}/assets/img/portfolio/CC1.png`,
+            `${ENV.ASSETS_BASE}/assets/img/portfolio/CC2.png`,
+            `${ENV.ASSETS_BASE}/assets/img/portfolio/CC3.png`,
+            `${ENV.ASSETS_BASE}/assets/img/portfolio/CC4.png`
         ],
         video: null,
         videoDuration: 0

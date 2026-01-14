@@ -23,14 +23,14 @@ const pcbDesignProjects = [
     ],
 
     images: [
-      `${APP_BASE_PATH}/assets/img/portfolio/RGB_mcu1.jpg`,
-      `${APP_BASE_PATH}/assets/img/portfolio/RGB_mcu2.jpg`,
-      `${APP_BASE_PATH}/assets/img/portfolio/RGB_mcu3.jpg`,
-      `${APP_BASE_PATH}/assets/img/portfolio/RGB_mcu4.jpg`
+      `${ENV.ASSETS_BASE}/assets/img/portfolio/RGB_mcu1.jpg`,
+      `${ENV.ASSETS_BASE}/assets/img/portfolio/RGB_mcu2.jpg`,
+      `${ENV.ASSETS_BASE}/assets/img/portfolio/RGB_mcu3.jpg`,
+      `${ENV.ASSETS_BASE}/assets/img/portfolio/RGB_mcu4.jpg`
 
     ],
 
-    video: `${APP_BASE_PATH}/assets/vid/RBG_mcu2.mp4`,
+    video: `${ENV.ASSETS_BASE}/assets/vid/RBG_mcu2.mp4`,
     videoDuration: 15
   }
 ];

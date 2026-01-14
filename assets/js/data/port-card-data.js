@@ -16,6 +16,25 @@ const portfolioItems = [
     title: 'Advance RGB Controller',
     detailsLink: 'portfolio-details.html?id=p1'
   },
+
+  {
+    id: 9,
+    filter: 'filter-iot',
+    image: 'assets/img/portfolio/SmartHome_V1.jpg',
+    category: 'IOT Project',
+    title: '2k20 IOT Smart Home v.1',
+    detailsLink: 'portfolio-details.html?id=i5'
+  },
+
+  {
+    id: 10,
+    filter: 'filter-iot',
+    image: 'assets/img/portfolio/SmarHome1_V2.jpeg',
+    category: 'IOT Project',
+    title: '2k24 IOT Smart Home v.2',
+    detailsLink: 'portfolio-details.html?id=i6'
+  },
+
   {
     id: 3,
     filter: 'filter-web',
@@ -65,23 +84,5 @@ const portfolioItems = [
     category: 'IOT Project',
     title: 'IOT Smart Fans Controller',
     detailsLink: 'portfolio-details.html?id=i4'
-  },
-
-  {
-    id: 9,
-    filter: 'filter-iot',
-    image: 'assets/img/portfolio/SmartHome_V1.jpg',
-    category: 'IOT Project',
-    title: '2k20 IOT Smart Home v.1',
-    detailsLink: 'portfolio-details.html?id=i5'
-  },
-
-  {
-    id: 10,
-    filter: 'filter-iot',
-    image: 'assets/img/portfolio/SmarHome1_V2.jpeg',
-    category: 'IOT Project',
-    title: '2k24 IOT Smart Home v.2',
-    detailsLink: 'portfolio-details.html?id=i6'
   }
 ];
