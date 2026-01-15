@@ -180,6 +180,26 @@ This system improves comfort, energy efficiency, and indoor air quality through 
 
         video: `${ENV.ASSETS_BASE}/assets/vid/SM_v2_vid.mp4`,
         videoDuration: 19
+    },
+
+     {
+        id: 7,
+        title: 'Magic Cube (Under Development)',
+        client: 'Unknown',
+        category: 'Unknown',
+        date: '27 June, 2025',
+        url: '----------------',
+        description: `Project details are currently unavailable.`,
+        features: [
+            'Data not available',
+            'Data not available',
+        ],
+        images: [
+            `${ENV.ASSETS_BASE}/assets/img/portfolio/MagicCube.jpg`
+        ],
+
+        video: null,
+        videoDuration: 0
     }
 
 ];

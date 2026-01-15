@@ -36,6 +36,15 @@ const portfolioItems = [
   },
 
   {
+    id: 11,
+    filter: 'filter-iot',
+    image: 'assets/img/portfolio/MagicCube.jpg',
+    category: 'IOT Project',
+    title: 'Magic Cube',
+    detailsLink: 'portfolio-details.html?id=i7'
+  },
+
+  {
     id: 3,
     filter: 'filter-web',
     image: 'assets/img/portfolio/CarInsure1.png',
